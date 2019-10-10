@@ -1,0 +1,15 @@
+{
+  "name": "LOC hesaplama",
+  "version": "1.0.3",
+  "description": "",
+  "main": "satir_hesaplama_main_v3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sidar Yüksel",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.14.1"
+  }
+}
+
